@@ -1,0 +1,14 @@
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.csproj.AssemblyReference.cache
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.AssemblyInfoInputs.cache
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.AssemblyInfo.cs
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.csproj.CoreCompileInputs.cache
+D:\ef_rest_api\training\Change_Tracker\bin\Debug\net6.0\Change_Tracker.deps.json
+D:\ef_rest_api\training\Change_Tracker\bin\Debug\net6.0\Change_Tracker.runtimeconfig.json
+D:\ef_rest_api\training\Change_Tracker\bin\Debug\net6.0\Change_Tracker.dll
+D:\ef_rest_api\training\Change_Tracker\bin\Debug\net6.0\Change_Tracker.pdb
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.dll
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\refint\Change_Tracker.dll
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.pdb
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\Change_Tracker.genruntimeconfig.cache
+D:\ef_rest_api\training\Change_Tracker\obj\Debug\net6.0\ref\Change_Tracker.dll
