@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-ETicaretContext context = new();
+//ETicaretContext context = new();
 #region Change Tracking Neydi?
 //Context nesnesi üzerinden gelen tüm nesneler/veriler otomatik olarak bir takip mekanizması tarafından izlenirler.
 //İşte bu takip mekanizmasına Change Tracker denir. Change Traker ile nesneler üzerindeki değişiklikler/işlemler takip edilerek netice

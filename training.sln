@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_to_One_RL", "ClassLibrary1\One_to_One_RL.csproj", "{DBEE1F5A-1E3B-4083-8797-9266B1C5E6CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_to_Many_RL", "one_to_many_rl\One_to_Many_RL.csproj", "{BCA8C95E-76FB-40CD-8BFE-52AA598207A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_to_Many_RL", "one_to_many_rl\One_to_Many_RL.csproj", "{BCA8C95E-76FB-40CD-8BFE-52AA598207A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Many_to_Many_RL", "many_to_many_rl\Many_to_Many_RL.csproj", "{B5463290-06BC-4A96-B435-C00B071F1632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Many_to_Many_RL", "many_to_many_rl\Many_to_Many_RL.csproj", "{B5463290-06BC-4A96-B435-C00B071F1632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Change_Tracker", "Change_Tracker\Change_Tracker.csproj", "{C965A338-79FB-47F1-ADC2-6239F00EB739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change_Tracker", "Change_Tracker\Change_Tracker.csproj", "{C965A338-79FB-47F1-ADC2-6239F00EB739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking", "Tracking\Tracking.csproj", "{FFA2BB20-F0EE-4EF8-9146-7F88E32B32EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking", "Tracking\Tracking.csproj", "{FFA2BB20-F0EE-4EF8-9146-7F88E32B32EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adding_Related_Data", "Adding_Related_Data\Adding_Related_Data.csproj", "{B80D59E8-826D-4AAF-A786-DE1C591B4763}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoMapperDemo", "AutoMapperDemo", "{3B3A9DB0-3441-405D-A5E0-BB95DA8E6B26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperDemo.API", "AutoMapperDemo.API\AutoMapperDemo.API.csproj", "{09E823D5-C676-4A71-97B3-5C6287A372C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying", "Querying\Querying.csproj", "{9833B825-7DF7-4B86-86D7-BE9A20118B3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DBEE1F5A-1E3B-4083-8797-9266B1C5E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DBEE1F5A-1E3B-4083-8797-9266B1C5E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DBEE1F5A-1E3B-4083-8797-9266B1C5E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DBEE1F5A-1E3B-4083-8797-9266B1C5E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCA8C95E-76FB-40CD-8BFE-52AA598207A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCA8C95E-76FB-40CD-8BFE-52AA598207A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA8C95E-76FB-40CD-8BFE-52AA598207A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,9 +41,24 @@ Global
 		{FFA2BB20-F0EE-4EF8-9146-7F88E32B32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFA2BB20-F0EE-4EF8-9146-7F88E32B32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFA2BB20-F0EE-4EF8-9146-7F88E32B32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80D59E8-826D-4AAF-A786-DE1C591B4763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80D59E8-826D-4AAF-A786-DE1C591B4763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80D59E8-826D-4AAF-A786-DE1C591B4763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80D59E8-826D-4AAF-A786-DE1C591B4763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E823D5-C676-4A71-97B3-5C6287A372C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E823D5-C676-4A71-97B3-5C6287A372C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E823D5-C676-4A71-97B3-5C6287A372C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E823D5-C676-4A71-97B3-5C6287A372C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9833B825-7DF7-4B86-86D7-BE9A20118B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9833B825-7DF7-4B86-86D7-BE9A20118B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9833B825-7DF7-4B86-86D7-BE9A20118B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9833B825-7DF7-4B86-86D7-BE9A20118B3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09E823D5-C676-4A71-97B3-5C6287A372C5} = {3B3A9DB0-3441-405D-A5E0-BB95DA8E6B26}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {267695CA-F20C-4210-8178-A85CA3480846}

@@ -1,0 +1,14 @@
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.csproj.AssemblyReference.cache
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.GeneratedMSBuildEditorConfig.editorconfig
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.AssemblyInfoInputs.cache
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.AssemblyInfo.cs
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.csproj.CoreCompileInputs.cache
+D:\ef_rest_api\training\Querying\bin\Debug\net6.0\Querying.deps.json
+D:\ef_rest_api\training\Querying\bin\Debug\net6.0\Querying.runtimeconfig.json
+D:\ef_rest_api\training\Querying\bin\Debug\net6.0\Querying.dll
+D:\ef_rest_api\training\Querying\bin\Debug\net6.0\Querying.pdb
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.dll
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\refint\Querying.dll
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.pdb
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\Querying.genruntimeconfig.cache
+D:\ef_rest_api\training\Querying\obj\Debug\net6.0\ref\Querying.dll
