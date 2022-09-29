@@ -9,6 +9,7 @@
       "Querying/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.Design": "6.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.9"
         },

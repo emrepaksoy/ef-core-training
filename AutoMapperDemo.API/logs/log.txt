@@ -1,0 +1,187 @@
+2022-09-28 15:58:58.748 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 15:58:58.765 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 15:58:58.768 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 15:58:58.769 +03:00 [INF] Hosting environment: Development
+2022-09-28 15:58:58.770 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 15:58:59.109 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 15:58:59.267 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 160.1825ms
+2022-09-28 15:58:59.272 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 15:58:59.277 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 4.4307ms
+2022-09-28 15:58:59.427 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 15:58:59.487 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 59.7487ms
+2022-09-28 16:40:18.949 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:40:18.968 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:40:18.972 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:40:18.973 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:40:18.974 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:40:19.249 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:40:19.377 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 129.5294ms
+2022-09-28 16:40:19.385 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:40:19.389 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 3.9121ms
+2022-09-28 16:40:19.481 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:40:19.550 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.7828ms
+2022-09-28 16:42:09.595 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:42:09.611 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:42:09.614 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:42:09.615 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:42:09.615 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:42:09.973 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:42:10.096 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 124.9272ms
+2022-09-28 16:42:10.103 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:42:10.106 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 3.0093ms
+2022-09-28 16:42:10.222 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:42:10.279 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 57.4929ms
+2022-09-28 16:45:37.479 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:45:37.495 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:45:37.499 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:45:37.499 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:45:37.500 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:45:37.800 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:45:37.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 130.1507ms
+2022-09-28 16:45:37.938 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:45:37.941 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 3.3519ms
+2022-09-28 16:45:38.037 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:45:38.094 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 57.1259ms
+2022-09-28 16:46:18.509 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:46:18.525 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:46:18.529 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:46:18.530 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:46:18.531 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:46:18.796 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:46:18.923 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 128.5736ms
+2022-09-28 16:46:18.925 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:46:18.929 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 4.2007ms
+2022-09-28 16:46:19.021 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:46:19.088 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.7062ms
+2022-09-28 16:50:28.891 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:50:28.909 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:50:28.913 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:50:28.914 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:50:28.915 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:50:29.229 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:50:29.349 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 122.8467ms
+2022-09-28 16:50:29.360 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:50:29.365 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 4.3328ms
+2022-09-28 16:50:29.445 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:50:29.510 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 64.7642ms
+2022-09-28 16:59:35.227 +03:00 [INF] Now listening on: https://localhost:7075
+2022-09-28 16:59:35.243 +03:00 [INF] Now listening on: http://localhost:5075
+2022-09-28 16:59:35.248 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-28 16:59:35.249 +03:00 [INF] Hosting environment: Development
+2022-09-28 16:59:35.249 +03:00 [INF] Content root path: D:\ef_rest_api\training\AutoMapperDemo.API\
+2022-09-28 16:59:35.538 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 16:59:35.659 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 122.6519ms
+2022-09-28 16:59:35.684 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 16:59:35.689 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 5.2639ms
+2022-09-28 16:59:35.766 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 16:59:35.828 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 61.7212ms
+2022-09-28 17:00:05.570 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/index.html - -
+2022-09-28 17:00:05.577 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/index.html - - - 200 - text/html;charset=utf-8 7.1657ms
+2022-09-28 17:00:05.625 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - -
+2022-09-28 17:00:05.628 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/_framework/aspnetcore-browser-refresh.js - - - 200 11993 application/javascript;+charset=utf-8 2.9974ms
+2022-09-28 17:00:05.716 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - -
+2022-09-28 17:00:05.720 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.9011ms
+2022-09-28 17:00:16.575 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/Users - -
+2022-09-28 17:00:16.580 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Users
+Accept: text/plain
+Host: localhost:7075
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Referer: [Redacted]
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="104", "Opera GX";v="90"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2022-09-28 17:00:16.585 +03:00 [INF] Executing endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:00:16.594 +03:00 [INF] Route matched with {action = "Get", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[AutoMapperDemo.API.DTO.UserReadDTO]] Get() on controller AutoMapperDemo.API.Controllers.UsersController (AutoMapperDemo.API).
+2022-09-28 17:00:17.336 +03:00 [INF] Entity Framework Core 6.0.9 initialized 'AutoMapDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2022-09-28 17:00:17.815 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[DateOfBirth], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+2022-09-28 17:00:17.896 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AutoMapperDemo.API.DTO.UserReadDTO, AutoMapperDemo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-09-28 17:00:17.900 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2022-09-28 17:00:17.906 +03:00 [INF] Executed action AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API) in 1304.8701ms
+2022-09-28 17:00:17.908 +03:00 [INF] Executed endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:00:17.912 +03:00 [INF] ResponseBody: [{"fullName":"deneme deneme","email":"test@123.com","age":32},{"fullName":"denem1 deneme2","email":"deneme@gmail.com","age":0}]
+2022-09-28 17:00:17.915 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/Users - - - 200 - application/json;+charset=utf-8 1340.3095ms
+2022-09-28 17:00:38.417 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/Users/1 - -
+2022-09-28 17:00:38.419 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Users/1
+Accept: text/plain
+Host: localhost:7075
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Referer: [Redacted]
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="104", "Opera GX";v="90"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2022-09-28 17:00:38.425 +03:00 [INF] Executing endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:00:38.437 +03:00 [INF] Route matched with {action = "Get", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[AutoMapperDemo.API.DTO.UserReadDTO]] Get(Int32) on controller AutoMapperDemo.API.Controllers.UsersController (AutoMapperDemo.API).
+2022-09-28 17:00:38.477 +03:00 [INF] Entity Framework Core 6.0.9 initialized 'AutoMapDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2022-09-28 17:00:38.905 +03:00 [INF] Executed DbCommand (29ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateOfBirth], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__id_0
+2022-09-28 17:00:38.912 +03:00 [INF] Executing OkObjectResult, writing value of type 'AutoMapperDemo.API.DTO.UserReadDTO'.
+2022-09-28 17:00:38.913 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2022-09-28 17:00:38.915 +03:00 [INF] Executed action AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API) in 472.9251ms
+2022-09-28 17:00:38.916 +03:00 [INF] Executed endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:00:38.917 +03:00 [INF] ResponseBody: {"fullName":"deneme deneme","email":"test@123.com","age":32}
+2022-09-28 17:00:38.919 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/Users/1 - - - 200 - application/json;+charset=utf-8 502.1182ms
+2022-09-28 17:01:11.256 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7075/Users/2 - -
+2022-09-28 17:01:11.258 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Users/2
+Accept: text/plain
+Host: localhost:7075
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Referer: [Redacted]
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="104", "Opera GX";v="90"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2022-09-28 17:01:11.259 +03:00 [INF] Executing endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:01:11.260 +03:00 [INF] Route matched with {action = "Get", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[AutoMapperDemo.API.DTO.UserReadDTO]] Get(Int32) on controller AutoMapperDemo.API.Controllers.UsersController (AutoMapperDemo.API).
+2022-09-28 17:01:11.273 +03:00 [INF] Entity Framework Core 6.0.9 initialized 'AutoMapDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2022-09-28 17:01:11.279 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[DateOfBirth], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__id_0
+2022-09-28 17:01:11.282 +03:00 [INF] Executing OkObjectResult, writing value of type 'AutoMapperDemo.API.DTO.UserReadDTO'.
+2022-09-28 17:01:11.283 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2022-09-28 17:01:11.284 +03:00 [INF] Executed action AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API) in 22.1649ms
+2022-09-28 17:01:11.286 +03:00 [INF] Executed endpoint 'AutoMapperDemo.API.Controllers.UsersController.Get (AutoMapperDemo.API)'
+2022-09-28 17:01:11.288 +03:00 [INF] ResponseBody: {"fullName":"denem1 deneme2","email":"deneme@gmail.com","age":0}
+2022-09-28 17:01:11.289 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7075/Users/2 - - - 200 - application/json;+charset=utf-8 32.6550ms

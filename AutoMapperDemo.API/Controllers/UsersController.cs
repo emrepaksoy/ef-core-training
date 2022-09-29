@@ -12,11 +12,14 @@ namespace AutoMapperDemo.API.Controllers
     {
         private readonly IUserRepository _userRepository;
         private readonly IMapper _mapper;
-
-        public UsersController(IUserRepository userRepository, IMapper mapper)
+        private readonly IFoo _foo;
+        private readonly IBar _bar;
+        public UsersController(IUserRepository userRepository, IMapper mapper,IFoo foo,IBar bar)
         {
             _userRepository = userRepository;
             _mapper = mapper;
+            _foo = foo;
+            _bar = bar;
         }
 
         [HttpGet]
@@ -60,7 +63,16 @@ namespace AutoMapperDemo.API.Controllers
             return Ok(_mapper.Map<UserReadDTO>(userReadDto));
         }
 
+        [HttpGet("scl")]
 
+        public ActionResult<string> TestScl()
+        {
+            var g1 = _bar.Getvalue2();
+            var g2 = _foo.GetValue();
+            //return Ok(_userRepository.GetUserById(id));
+            
+            return Ok($"Foo Value {g2} ----- Bar Value {g1}");
+        }
 
     }
 

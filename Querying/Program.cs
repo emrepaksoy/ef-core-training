@@ -1,7 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
 
 
-//ETicaretContext context = new();
+/ETicaretContext context = new();
 
 #region En Temel Basit Bir Sorgulama Nasıl Yapılır?
 #region Method Syntax
@@ -10,6 +11,11 @@
 #region Query Syntax
 //var urunler2 = await (from urun in context.Urunler
 //                      select urun).ToListAsync();
+#endregion
+#region Lambda Expressions
+//var urunler3 = await context.Urunler.Where(x => x.Id != null).ToListAsync();
+//Console.WriteLine();
+
 #endregion
 #endregion
 
@@ -340,7 +346,8 @@
 #endregion
 
 #region SelectMany
-//Select ile aynı amaca hizmet eder. Lakin, ilişkisel tablolar neticesinde gelen koleksiyonel verileri de tekilleştirip projeksiyon etmemizi sağlar.
+//Select ile aynı amaca hizmet eder. Lakin, ilişkisel tablolar neticesinde gelen koleksiyonel verileri de tekilleştirip
+//projeksiyon etmemizi sağlar.
 
 //var urunler = await context.Urunler.Include(u => u.Parcalar).SelectMany(u => u.Parcalar, (u, p) => new
 //{
@@ -348,18 +355,20 @@
 //    u.Fiyat,
 //    p.ParcaAdi
 //}).ToListAsync();
-#endregion
-#endregion
 
-#region GroupBy Fonksiyonu
-//Gruplama yapmamızı sağlayan fonksiyondur.
-#region Method Syntax
+//#endregion
+//#endregion
+
+//#region GroupBy Fonksiyonu
+////Gruplama yapmamızı sağlayan fonksiyondur.
+//#region Method Syntax
 //var datas = await context.Urunler.GroupBy(u => u.Fiyat).Select(group => new
 //{
 //    Count = group.Count(),
 //    Fiyat = group.Key
 //}).ToListAsync();
 #endregion
+
 #region Query Syntax
 //var datas = await (from urun in context.Urunler
 //                   group urun by urun.Fiyat

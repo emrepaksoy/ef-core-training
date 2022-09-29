@@ -23,6 +23,8 @@ namespace AutoMapperDemo.API.MappingProfile
           
             CreateMap<UserCreateDTO, User>();
             CreateMap<User, UserCreateDTO>();
+
+
         }
     }
 }

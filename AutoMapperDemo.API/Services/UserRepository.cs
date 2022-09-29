@@ -30,8 +30,9 @@ namespace AutoMapperDemo.API.Services
 
         public User GetUserById(int id)
         {
-            var user = (from u in users where u.Id == id select u).FirstOrDefault();
-            //var user = users.FirstOrDefault(u => u.Id == guid);
+            //var user = (from u in users where u.Id == id select u).FirstOrDefault();
+            
+            var user = users.FirstOrDefault(u => u.Id == id);
             return user;
         }
     }
