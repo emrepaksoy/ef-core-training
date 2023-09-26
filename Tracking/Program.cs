@@ -84,6 +84,7 @@ public class Yazar
 
     public int Id { get; set; }
     public string YazarAdi { get; set; }
+    public string Deneme { get; set; }
 
     public ICollection<Kitap> Kitaplar { get; set; }
 }
