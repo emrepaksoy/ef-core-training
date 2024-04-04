@@ -183,3 +183,14 @@
 /JsonColumns/obj/project.nuget.cache
 /training.sln
 /JsonColumns/bin/Debug/net8.0
+/.vs
+/JsonColumns/obj/Debug/net8.0
+/Querying/bin/Debug/net6.0/Querying.dll
+/Querying/bin/Debug/net6.0/Querying.exe
+/Querying/bin/Debug/net6.0/Querying.pdb
+/Querying/obj/Debug/net6.0/ref/Querying.dll
+/Querying/obj/Debug/net6.0/refint/Querying.dll
+/Querying/obj/Debug/net6.0/apphost.exe
+/Querying/obj/Debug/net6.0/Querying.dll
+/Querying/obj/Debug/net6.0/Querying.genruntimeconfig.cache
+/Querying/obj/Debug/net6.0/Querying.pdb
